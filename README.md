@@ -9,6 +9,8 @@ Aplikasi Sederhana Gaji Honorer / Honorary Salary Simple Application
 ![Screenshot (220)](https://user-images.githubusercontent.com/57186921/211705838-ec36b6bb-ebe1-4798-820f-5292f954ad46.png)
 ![Screenshot (221)](https://user-images.githubusercontent.com/57186921/211705839-2b1fb5b1-9e1c-4b50-af8c-0f3b54d184f5.png)
 ![Screenshot (222)](https://user-images.githubusercontent.com/57186921/211705841-a803aba2-0052-4115-9eb7-e5ccbe95535d.png)
+![Screenshot (223)](https://user-images.githubusercontent.com/57186921/211706303-35fbf6a4-d2bf-4805-84df-893b12b09f39.png)
+
 
 THANKS TO :
 
